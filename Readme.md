@@ -2,7 +2,7 @@
 
 - **Project Name:** Jobby Job
 - **Project By:** Ronard Nyongkah
-- [**LINK TO GITHUB**](https://github.com/JoyBoyCr7/Ronard-s-Project)
+- [**LINK TO GITHUB**](https://github.com/JoyBoyCr7/Jobby_Job_Backend)
 - [**LINK TO DEPLOYED WEBSITE**](https://ronards-project2.onrender.com/)
 - **List of Technologies used:** Python, Django ,Neon
 - [**LINK TO TRELLO**](https://trello.com/b/k8624o1E/project4)
