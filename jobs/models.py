@@ -4,8 +4,8 @@ from django.db import models
 class Job(models.Model):
     role = models.CharField(max_length=100)
     location = models.CharField(max_length=100)
-    image = models.CharField(max_length=100)
+    brand_image = models.CharField(max_length=100)
     description = models.CharField(max_length=200)
-    interest = models.IntegerField()
-    aplication = models.DateField()
+    interest_level = models.IntegerField()
+    aplication_date = models.DateField()
 
