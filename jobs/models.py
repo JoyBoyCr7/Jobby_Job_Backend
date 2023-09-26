@@ -7,5 +7,5 @@ class Job(models.Model):
     brand_image = models.CharField(max_length=100)
     description = models.CharField(max_length=200)
     interest_level = models.IntegerField()
-    aplication_date = models.DateField()
+    application_date = models.DateField()
 
