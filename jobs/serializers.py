@@ -5,4 +5,4 @@ from rest_framework import serializers
 class JobSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Job
-        fields = ['id', 'role', 'location', 'brand_image', 'description', 'interest_level', 'apllication_date']
+        fields = ['id', 'role', 'location', 'image', 'description', 'interest', 'aplication']
